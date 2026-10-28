@@ -1,0 +1,14 @@
+[18-Sep-2026 14:21:43 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.4.1". You are running 7.4.33. in /home/koss8496/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/koss8496/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/koss8496/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bdb93cfc0ad8df3e87370b525f650f5::getLoader()
+#2 /home/koss8496/public_html/public/index.php(14): require('/home/koss8496/...')
+#3 {main}
+  thrown in /home/koss8496/public_html/vendor/composer/platform_check.php on line 26
+[18-Sep-2026 14:22:33 Asia/Jakarta] PHP Fatal error:  Uncaught RuntimeException: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.4.1". You are running 7.4.33. in /home/koss8496/public_html/vendor/composer/platform_check.php:26
+Stack trace:
+#0 /home/koss8496/public_html/vendor/composer/autoload_real.php(25): require()
+#1 /home/koss8496/public_html/vendor/autoload.php(22): ComposerAutoloaderInit1bdb93cfc0ad8df3e87370b525f650f5::getLoader()
+#2 /home/koss8496/public_html/public/index.php(14): require('/home/koss8496/...')
+#3 {main}
+  thrown in /home/koss8496/public_html/vendor/composer/platform_check.php on line 26
